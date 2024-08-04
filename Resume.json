@@ -1,0 +1,109 @@
+{
+  "Contact Information": {
+    "Name": "Md Gulfam",
+    "Location": "Sultanpur, Uttar Pradesh 228001",
+    "Phone": "+916307537795",
+    "Email": "mdgulfamkhan317@gmail.com",
+    "LinkedIn": "www.linkedin.com/in/md-gulfam",
+    "GitHub": "https://github.com/mdgulfam00"
+  },
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology in Computer Science and Engineering",
+      "Institution": "Lovely Professional University",
+      "Location": "Jalandhar, Punjab",
+      "Year": "2021 – 2025",
+      "CGPA": "8.3"
+    },
+    {
+      "Degree": "12th with Science",
+      "Institution": "St. Xavier’s Sr. Sec. School",
+      "Location": "Sultanpur, Uttar Pradesh",
+      "Year": "2020 – 2021",
+      "Percentage": "90%"
+    },
+    {
+      "Degree": "10th with Science",
+      "Institution": "St. Xavier’s Sr. Sec. School",
+      "Location": "Sultanpur, Uttar Pradesh",
+      "Year": "2018 – 2019",
+      "Percentage": "93%"
+    }
+  ],
+  "Technical Skills": {
+    "Languages": ["Java", "JavaScript", "SQL", "Python"],
+    "Technologies/Frameworks": ["React JS", "Node JS", "Git", "GitHub", "Express JS", "MongoDB"],
+    "Skills": ["Data Structures and Algorithms", "Problem-Solving", "Object-oriented programming", "Machine Learning"]
+  },
+  "Projects": [
+    {
+      "Title": "Job Portal Website",
+      "Technologies": ["MERN Stack", "Responsive Web Design"],
+      "Duration": "July 2024 - Aug 2024",
+      "Description": [
+        "Developed a full-featured Job Portal App with the MERN stack, including user authentication as Job Seeker and Job Provider.",
+        "Implemented RESTful APIs with Node.js and Express.js for efficient handling of user data, company data, job data, etc.",
+        "Developed front-end components using React, ensuring a dynamic and interactive user experience."
+      ]
+    },
+    {
+      "Title": "A website for local restaurant to order food",
+      "Technologies": ["HTML", "CSS", "JavaScript"],
+      "Duration": "Jan 2024 - Feb 2024",
+      "Description": [
+        "A frontend responsive project made for local restaurant.",
+        "Capable of checking availability of fast food at local restaurant.",
+        "User can give feedback based on experience."
+      ]
+    },
+    {
+      "Title": "Fake News Detection System",
+      "Technologies": ["Python", "Machine Learning", "Pandas", "Numpy"],
+      "Duration": "Nov 2022 - Dec 2022",
+      "Description": [
+        "Developed a machine learning-based system to identify and classify fake news articles to combat misinformation.",
+        "Collected and cleaned a large dataset of news articles.",
+        "Extracted features such as TF-IDF and word embeddings.",
+        "Built and trained models like logistic regression and neural networks.",
+        "Achieved 95% accuracy, effectively reducing misinformation.",
+        "Addressed imbalanced datasets, improved NLP skills, and gained deployment experience."
+      ]
+    }
+  ],
+  "Certificates": [
+    {
+      "Title": "Data Structures and Algorithms",
+      "Issuer": "Geeks for Geeks",
+      "Type": "Self Paced",
+      "Date": "July 2023"
+    },
+    {
+      "Title": "Neo Code-A-Thon",
+      "Issuer": "Lovely Professional University",
+      "Date": "Oct 2022"
+    },
+    {
+      "Title": "Algorithms Specialization",
+      "Issuer": "Coursera (Stanford University)",
+      "Date": "May 2022"
+    }
+  ],
+  "Coding Profiles": [
+    {
+      "Platform": "LeetCode",
+      "Achievements": "Solved more than 400+ Problems"
+    },
+    {
+      "Platform": "CodeChef",
+      "Achievements": "2 star Coder"
+    },
+    {
+      "Platform": "Geeks For Geeks",
+      "Achievements": "Solve more than 350+ problems"
+    },
+    {
+      "Platform": "CodeForces",
+      "Achievements": "Rating 900+ on CodeForces"
+    }
+  ]
+}
